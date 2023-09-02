@@ -49,7 +49,7 @@ export const Chat = ({ backToHome }) => {
           new Date(Date.now()).getMinutes(),
       },
     ]);
-    const API_KEY = "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";
+    const API_KEY = "YOUR API KEY HERE";
     const options = {
       method: "POST",
       headers: {
